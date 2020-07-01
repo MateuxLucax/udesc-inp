@@ -1,7 +1,6 @@
 package lista2;
 
 import java.util.*;
-import java.math.*;
 
 public class Questao7 {
 
