@@ -26,7 +26,7 @@ public class Exercicio5 {
   }
 
   private static boolean verificaPrimo(int numero) {
-    for (int j = 2; j < numero; j++) {
+    for (int j = 2; j < (numero / 2) + 1; j++) {
       if (numero % j == 0)
         return false;
     }
